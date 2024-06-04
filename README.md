@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sakthiss0917
-- 👀 I’m interested in ...web developing
+- 👀 I’m interested in ...predicting through insights
 - 🌱 I’m currently learning ...data analytics
 - 💞️ I’m looking to collaborate on ...community with similar domain
 - 📫 How to reach me ...sakthivel0910rs@gmail.com
